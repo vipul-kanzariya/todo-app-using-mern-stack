@@ -1,0 +1,9 @@
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+config.env
+package-lock.json
+build/

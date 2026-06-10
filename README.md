@@ -49,6 +49,5 @@ VITE_API_URL=http://localhost:8000/api/v2
 - Filter by all / pending / completed
 - Search tasks by title or description
 
-## Folder Structure
 
 
